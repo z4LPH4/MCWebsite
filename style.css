@@ -1,0 +1,82 @@
+body {
+    background-color: #EEEEEE;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 0;
+}
+
+h4 {
+    margin-top: 0;
+}
+
+header {
+    padding: 1em;
+    background-color: #EEEEEE;
+}
+
+nav {
+    padding: 1em;
+    background-color: #DDDDDD;
+}
+
+section {
+    width: 100%;
+    padding: 5% 15% 5% 15%;
+}
+
+.bg-div {
+    background-color: #DDDDDD; 
+}
+
+.desc {
+    height: 30%;
+    border-radius: 6px;
+    padding: 2%;
+    margin: 1em 0.5em 1em 0.5em;
+}
+
+footer {
+    padding: 5em;
+    background-color: #DDDDDD;
+}
+
+.bg-img {
+    margin: 1em;
+    background-size: cover;
+    background-position: center;
+    border-radius: 6px;
+    height: 30%;
+}
+
+.intro {
+    background-image: url("https://akoe.it/wp-content/uploads/2023/07/cervello.mente-unama.pscologia.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 85%;
+}
+
+.bg-brain {
+    background-image: url("https://www.unidprofessional.com/wp-content/uploads/2024/01/TOLC-psicologia-argomenti.jpg");
+}
+
+.bg-psi {
+    background-image: url("https://www.anahuac.mx/mexico/EscuelasyFacultades/psicologia/sites/default/files/noticias/PSI_Articulo_Dia_Psicologo_ok.jpg");
+}
+
+aside {
+    border-radius: 6px;
+    padding: 2em;
+}
+
+aside p {
+    background-color: #EEEEEE;
+    border-radius: 3em;
+    text-align: center;
+    padding: 1.5em;
+}
